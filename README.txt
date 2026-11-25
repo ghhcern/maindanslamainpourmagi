@@ -4,7 +4,7 @@ Version multi-pages du site.
 
 Pages :
 - index.html — Accueil
-- notre-histoire.html — Notre histoire
+- association.html — Notre histoire
 - lecole.html — L’école
 - nos-projets.html — Nos projets
 - nous-soutenir.html — Nous soutenir
